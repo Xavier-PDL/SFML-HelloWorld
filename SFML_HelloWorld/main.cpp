@@ -13,6 +13,7 @@
 #pragma comment(lib, "sfml-graphics-s.lib")
 #endif
 
+//Trenton was here :)
 int main()
 {
 	sf::RenderWindow window(sf::VideoMode(800, 600), "Hello World!");
