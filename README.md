@@ -13,7 +13,7 @@ Building should be straight-forward.
 The first time you open the solution you should be presented with a dialog that
 looks like the following:
 
-![img/SolutionActions.png]()
+![]img/SolutionActions.png)
 
 Simply clone the repo, select a Windows 10 SDK and ensure that you do NOT
 upgrade the platform toolset.
